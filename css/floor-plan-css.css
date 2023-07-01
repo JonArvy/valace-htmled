@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+}
+.bg-primary {
+    background-color: #00104A;
+} 
+.bg-secondary {
+    background-color: #E10909;
+}
+.bg-tertiary {
+    background-color: #000D3E;
+}
+.floor-plan-container {
+    padding: 0;
+}
+.elevator-button-container {
+    position: fixed;
+    width: 6rem;
+    padding-bottom: 2rem;
+    height: 100%;
+    opacity: 50%;
+}
+.elevator-button-list {
+    list-style: none;
+}
